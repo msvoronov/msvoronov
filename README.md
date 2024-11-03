@@ -8,7 +8,7 @@ I want to join a powerful team of developers, bring value to the business and im
 
 I quickly find a common language with people and fit into any team. I am able to work effectively in a team and quickly adapt to changes. I know how to take responsibility and make informed decisions. I strive for constant professional growth.
 
-### Tech stack
+### Tech stack :mortar_board:
 - JavaScript (ES6+)
 - HTML5, CSS3, SCSS
 - Jest, ESLint
@@ -17,9 +17,9 @@ I quickly find a common language with people and fit into any team. I am able to
 - English - A2
 
 ### Contact me
-email: msvoronov@inbox.ru
+:envelope: email: msvoronov@inbox.ru
 
-telegram: @ms_voronov
+:speech_balloon: telegram: @ms_voronov
 
 ### My resume available on
 [Hexlet CV](https://cv.hexlet.io/ru/resumes/9600)
