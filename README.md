@@ -9,11 +9,14 @@ I want to join a powerful team of developers, bring value to the business and im
 I quickly find a common language with people and fit into any team. I am able to work effectively in a team and quickly adapt to changes. I know how to take responsibility and make informed decisions. I strive for constant professional growth.
 
 ### Tech stack :computer:
-- JavaScript (ES6+)
 - HTML5, CSS3, SCSS
+- JavaScript (ES6+)
+- React, Redux
+- Bootstrap
+- Webpack
+- HTTP, REST API
 - Jest, ESLint
 - Git, GitHub
-- HTTP
 - English - A2
 
 ### Education :mortar_board:
@@ -29,7 +32,7 @@ I quickly find a common language with people and fit into any team. I am able to
 :speech_balloon: telegram: @ms_voronov
 
 ### My resume also available on
-[Hexlet CV](https://cv.hexlet.io/ru/resumes/9600) | [HeadHunter](https://yaroslavl.hh.ru/resume/cea45bdbff0de9ffde0039ed1f706577774571) | [HabrCareer](https://career.habr.com/msvoronov)
+[HeadHunter](https://yaroslavl.hh.ru/resume/cea45bdbff0de9ffde0039ed1f706577774571) | [HabrCareer](https://career.habr.com/msvoronov)
 
 <!--
 **msvoronov/msvoronov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
