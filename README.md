@@ -2,11 +2,10 @@
 
 My name is Michael.
 
-Frontend developer passionate about creating complex and large-scale web interfaces.
-
-I want to build architecturally sound, high-load products designed for millions of users.
-
-I'm looking for opportunities to contribute to large products and teams where code quality, structure, scale, and an engineering approach are important.
+Frontend developer (React, TypeScript), specializing in SPA and admin interfaces for corporate CMS.
+I develop a library of UI components (React, styled-components, Storybook) and participate in the development of an admin panel with SSR.
+I create reusable solutions to speed up development and maintainability of interfaces, and I work with REST API integrations.
+I have experience refactoring legacy projects and gradually modernizing them without interrupting development.
 
 ### Tech stack :computer:
 - HTML5, CSS3, SCSS
@@ -19,11 +18,9 @@ I'm looking for opportunities to contribute to large products and teams where co
 - HTTP, REST API
 - Jest, ESLint
 - Git, GitHub, GitLab
-- English - B1
+- English - B2
 
 ### Education :mortar_board:
-2024-2025 [Hexlet Programming Courses](https://ru.hexlet.io/), Frontend Developer Profession, Retraining
-
 2016-2018 [YSTU](https://ystu.ru/), Chemistry and technology of products of basic organic and petrochemical synthesis, Master's degree
 
 2012-2016 [YSTU](https://ystu.ru/), Chemical technology of organic substances, Bachelor's degree
