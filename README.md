@@ -3,8 +3,11 @@
 My name is Michael.
 
 Frontend developer (React, TypeScript), specializing in SPA and admin interfaces for corporate CMS.
+
 I develop a library of UI components (React, styled-components, Storybook) and participate in the development of an admin panel with SSR.
+
 I create reusable solutions to speed up development and maintainability of interfaces, and I work with REST API integrations.
+
 I have experience refactoring legacy projects and gradually modernizing them without interrupting development.
 
 ### Tech stack :computer:
